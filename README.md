@@ -4,4 +4,4 @@ Anomaly detection is a challenging task, and is of great promise for improving i
 
 ## Illustration
 
-![Reconstructed damaged transistors from MVTec dataset](\damaged_transistor_0.0010_50epochs.png)
+![Reconstructed damaged transistors from MVTec dataset](damaged_cae_reconst_0.0010_50epochs.png)
