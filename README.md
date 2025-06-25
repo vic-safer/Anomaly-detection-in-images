@@ -8,6 +8,6 @@ Reconstructed damaged transistors from MVTec dataset:
 
 ![Reconstructed damaged transistors from MVTec dataset](damaged_cae_reconst_0.0010_50epochs.png)
 
-AUC result for the binary classification:
+AUC result for the binary classification, with the convolutional autoencoder:
 
 ![AUC](auc_cae_0.95.png)
